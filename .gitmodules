@@ -1,3 +1,6 @@
 [submodule "pytorch_advanced"]
 	path = pytorch_advanced
 	url = https://github.com/YutaroOgawa/pytorch_advanced.git
+[submodule "alearn"]
+	path = alearn
+	url = https://github.com/Numberartificial/alearn.git
