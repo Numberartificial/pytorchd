@@ -4,3 +4,7 @@
 [submodule "alearn"]
 	path = alearn
 	url = https://github.com/Numberartificial/alearn.git
+[submodule "Lhy_Machine_Learning"]
+	path = Lhy_Machine_Learning
+	url = https://github.com/Fafa-DL/Lhy_Machine_Learning.git
+
