@@ -8,3 +8,15 @@
 	path = Lhy_Machine_Learning
 	url = https://github.com/Fafa-DL/Lhy_Machine_Learning.git
 
+[submodule "ref/vision_transformer"]
+	path = ref/vision_transformer
+	url = https://github.com/google-research/vision_transformer.git
+[submodule "ref/mae"]
+	path = ref/mae
+	url = https://github.com/facebookresearch/mae.git
+[submodule "ref/segment-anything"]
+	path = ref/segment-anything
+	url = https://github.com/facebookresearch/segment-anything.git
+[submodule "ref/CLIP"]
+	path = ref/CLIP
+	url = https://github.com/openai/CLIP.git
