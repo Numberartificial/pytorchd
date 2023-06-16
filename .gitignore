@@ -127,3 +127,12 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# data files
+*.png
+*.jpg
+*.csv
+
+ref/
+Lhy_Machine_Learning/
+pytorch_advanced/
