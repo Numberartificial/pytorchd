@@ -136,3 +136,7 @@ dmypy.json
 ref/
 Lhy_Machine_Learning/
 pytorch_advanced/
+
+outputs/
+build/
+images/
