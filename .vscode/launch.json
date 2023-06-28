@@ -11,7 +11,7 @@
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true,
-            "cwd": "${workspaceFolder}/alearn/periods/now",
+            "cwd": "${workspaceFolder}/alearn/periods/kk",
             // "python": "/d/24886/dev/env/anaconda3/envs/pyt112/python"
         }
     ]
